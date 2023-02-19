@@ -1,0 +1,90 @@
+﻿body {
+    text-align: justify;
+    color: black;
+    background-color: #fb8528;
+   
+}
+h1 {
+    text-align: center;
+    font-style:italic;
+    color:black;
+}
+
+.bg {
+    background-color: #fb8528;
+    width: 441.3px;
+    margin: 1px auto;
+    height: 173px;
+   
+}
+
+.input-selection {
+    height: 46px;
+    width: 754px;
+    margin: 0 auto;
+    border: 1px black;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+   
+}
+
+ .input-selection input {
+        flex: 4;
+        text-align: center;
+    }
+
+.list-selectiion {
+    width: 478px;
+    margin: 1px auto;
+    border: 1px black;
+    padding: 10px;
+    text-align: center;
+    list-style: japanese-formal;
+}
+   
+
+    .list-selection ul {
+        padding: 1px;
+        margin: 0;
+        width: 478px;
+        margin: 1px auto;
+        border: 1px black;
+        padding: 10px;
+        text-align: center;
+        text-transform:uppercase;
+        text-emphasis: currentcolor;
+        list-style:japanese-formal;
+    }
+
+.list-selection li {
+    padding: 5px;
+    margin: 6px; auto;
+    width: 100%;
+    list-style: japanese-formal
+}
+a {
+    position: relative;
+    top: 0px;
+    float: right;
+    cursor: pointer;
+    color: cyan;
+    column-width: 74px;
+}
+
+.image {
+    background-color: red;
+    width: 270.3px;
+    margin: 0 auto;
+    height: 327px;
+    float: right;
+}
+
+.naurto{
+    background-color:white;
+    width:270.3px;
+    margin:0 auto;
+    height:327px;
+    float:left;
+}
+
